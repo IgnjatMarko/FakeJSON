@@ -1,33 +1,14 @@
-[
-  {
-    "id": "996bcb75-f0cc-4cf0-afcd-5a491c13172a",
-    "username": "john",
-    "email": "john@matf.bg.ac.rs",
-    "password": "john123",
-    "status": "active"
-  },
-
-  {
-    "id": "c0e4cdac-d240-4900-88b8-238e42199c96",
-    "username": "pavle",
-    "email": "pavle@gmail.com",
-    "password": "pavle123",
-    "status": "active"
-  },
-
-  {
-    "id": "2f7cc58a-84fb-4312-89b4-c24cfd43ab2d",
-    "username": "maja",
-    "email": "maja@gmail.com",
-    "password": "maja123",
-    "status": "inactive"
-  },
-
-  {
-    "id": "53eba886-e0dc-4bc6-9a75-89f66ffc0cef",
-    "username": "klara",
-    "email": "klara@gmail.com",
-    "password": "klara123",
-    "status": "active"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
