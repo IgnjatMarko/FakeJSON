@@ -40,5 +40,31 @@
     "password": "klara123",
     "status": "active"
   }
-  ]
+  ],
+    "verses":[
+  {
+    "date": 47756,
+    "translation": "YLT",
+    "book": 41,
+    "chapter": 9,
+    "verse": 3,
+    "text": "and his garments became glittering, white exceedingly, as snow, so as a fuller upon the earth is not able to whiten [them].",
+  },
+  {
+    "date": 37156,
+    "translation": "YLT",
+    "book": 19,
+    "chapter": 1,
+    "verse": 2,
+    "text": "But -- in the law of Jehovah [is] his delight, And in His law he doth meditate by day and by night:",
+  },
+    {
+      "date": 48659,
+      "translation": "YLT",
+      "book": 42,
+      "chapter": 11,
+      "verse": 39,
+      "text": "And the Lord said unto him, 'Now do ye, the Pharisees, the outside of the cup and of the plate make clean, but your inward part is full of rapine and wickedness;",
+    }
+  ];
 }
